@@ -1,0 +1,95 @@
+html, body{margin: 0; padding: 0;}
+
+#back{
+	margin: 0; padding: 0;
+	font-family: "Microsoft YaHei";
+    color: #666;
+    font-size: 21px;
+	background: url("../pictures/WeChat Image_20191230162843.jpg");
+	background-repeat:no-repeat;
+	width: 100%;
+	background-position: center center;
+    height: 1280px;
+    display: flex;
+    align-items: center;
+}
+
+#l, #r{
+	float: left;
+	height: 1280px;
+	width: 30%;
+}
+
+#topic{
+	float: left;
+	height: 1280px;
+	width: 40%;
+	margin-bottom: 5%;
+	background-color: rgba(0,0,0,0);
+	text-align: center;
+}
+
+
+#text{
+	margin-top: 310px;
+	margin-left: 32.3%;
+	width: 40%;
+	margin-right: 27.7%;
+	color: #79282F;
+}
+
+#login{
+	margin-top: 130px;
+	margin-left: 44.7%;
+	width: 40%;
+	
+}
+
+#sub{
+	margin-top: 80px;
+	margin-left: 44.7%;
+	width: 40%;
+	
+}
+
+#ll{
+	height: 23%;
+	width:100%;
+}
+
+#t{
+	margin-top: 40px;
+	margin-left: 30px;
+	font-size: 30px;
+	line-height: 35px;
+	font-family: "Microsoft YaHei";
+	color: #79282F;
+	align: center;
+}
+
+#name{
+	height:40px;
+	width: 250px;
+	line-height: 38px;
+	align-items: center;
+	font-family: "Microsoft YaHei";
+	color: black;
+	align: center;
+}
+
+#done{
+	display: inline-block;
+	font-size: 22px;
+	font-family: "Microsoft YaHei";
+	background-color: white;
+	text-decoration: none;
+	align: center;
+	height: 60px;
+	line-height: 36px;
+	border: 1px solid #CCC;
+	margin-top: 22px;
+	width: 250px;
+	text-align: center;
+	color: black;
+	align: center;
+}
